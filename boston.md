@@ -1,3 +1,3 @@
 Welcome to Boston
 
-_Boston, Massachusetts USA_
+_Boston, Massachusetts_
